@@ -23,3 +23,9 @@ This project is also part of my portfolio for future roles in AML / Compliance, 
 - Slightly cleaner structure, easier for future upgrades
 
 ## 🧾 Sample Usage
+
+```bash
+Please enter the first number: 10  
+Please enter the second number: 2  
+Choose an operation (+, -, *, /): /  
+Result: 5.0
